@@ -1,0 +1,16 @@
+,no_1,no_2,no_3,no_4,no_5,no_6,no_7,no_8
+ARG,grants,regulatory,policy,research,information,procurement,carbon,voluntary
+CAN,research,information,grants,regulatory,procurement,policy,voluntary,carbon
+CHE,grants,regulatory,policy,research,information,voluntary,carbon,procurement
+CHL,regulatory,information,grants,research,carbon,voluntary,procurement,policy
+COL,policy,regulatory,grants,information,procurement,voluntary,research,carbon
+DEU,regulatory,information,voluntary,policy,grants,research,procurement,carbon
+ESP,regulatory,policy,information,procurement,grants,voluntary,research,carbon
+FRA,information,regulatory,policy,voluntary,grants,research,procurement,carbon
+GBR,grants,regulatory,information,voluntary,policy,research,procurement,carbon
+ITA,regulatory,policy,voluntary,information,grants,research,procurement,carbon
+JPN,regulatory,information,policy,grants,research,voluntary,procurement,carbon
+KAZ,policy,grants,regulatory,voluntary,research,procurement,information,carbon
+MEX,grants,regulatory,policy,information,carbon,voluntary,research,procurement
+UKR,regulatory,research,policy,grants,information,carbon,voluntary,procurement
+ZAF,grants,policy,procurement,information,voluntary,regulatory,research,carbon
